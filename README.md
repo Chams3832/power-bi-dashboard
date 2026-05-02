@@ -14,8 +14,6 @@ This project presents an interactive Power BI dashboard analyzing business perfo
 - Profit trends
 - Customer segmentation
 
-## 📸 Preview
-(Add screenshots here)
-
 ## 🔗 Link
-(If published online, add Power BI link here)
+https://github.com/Chams3832/power-bi-dashboard (MAJ)
+
